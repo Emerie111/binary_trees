@@ -1,1 +1,1 @@
-##C - Bianry trees
+## C - Binary trees
